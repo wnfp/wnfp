@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I'm YeoDEV</h1>
-<h3 align="center">💻 PHP Developer | Web Development</h3>
+<h1 align="center">Hi 👋, I'm YeoDEV</h1>
+<h3 align="center">💻 Developer | Web Development</h3>
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Learning Web Development & Cybersecurity
-- 🌱 Mainly developing with **PHP**
-- 🔭 Currently building personal web projects
+- 🌱 Mainly developing with **JavaScript & C++**
+- 🔭 Currently building personal projects
 - 📍 France
 
 ---
@@ -17,8 +17,8 @@
 ### Languages
 ![PHP](https://skillicons.dev/icons?i=php)
 ![JavaScript](https://skillicons.dev/icons?i=js)
+![C++](https://skillicons.dev/icons?i=cpp)
 ![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
 
 ### Frameworks & Tools
 ![Git](https://skillicons.dev/icons?i=git)
