@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm YeoDEV</h1>
+<h3 align="center">💻 PHP Developer | Web Development</h3>
 
-<!--
-**wnfp/wnfp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Learning Web Development & Cybersecurity
+- 🌱 Mainly developing with **PHP**
+- 🔭 Currently building personal web projects
+- 📍 France
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![PHP](https://skillicons.dev/icons?i=php)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+### Frameworks & Tools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Linux](https://skillicons.dev/icons?i=linux)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+---
+
+## 🌐 Connect with Me
+
+- GitHub: https://github.com/wnfp
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wnfp&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
