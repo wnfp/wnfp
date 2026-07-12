@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YeoDEV</h1>
+<h1 align="center">Hi, I'm YeoDEV</h1>
 <h3 align="center">💻 Developer | Web Development</h3>
 
 ---
